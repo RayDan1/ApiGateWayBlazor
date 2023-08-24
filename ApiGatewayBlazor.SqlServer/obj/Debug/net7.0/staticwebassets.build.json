@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "37BqxX+j6I2IO78F2Gjj2AqOGqys2giZMNjPFBgOl74=",
+  "Source": "ApiGatewayBlazor.SqlServer",
+  "BasePath": "_content/ApiGatewayBlazor.SqlServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

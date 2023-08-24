@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiGatewayBlazor.SqlServer.props" />
+</Project>
