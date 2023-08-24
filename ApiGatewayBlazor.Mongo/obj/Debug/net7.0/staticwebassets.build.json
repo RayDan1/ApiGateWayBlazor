@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0GeWXomlo8RIjG4Fi++OUAD2Q1N0dczxkJxl+SbPG0Y=",
+  "Source": "ApiGatewayBlazor.Mongo",
+  "BasePath": "_content/ApiGatewayBlazor.Mongo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

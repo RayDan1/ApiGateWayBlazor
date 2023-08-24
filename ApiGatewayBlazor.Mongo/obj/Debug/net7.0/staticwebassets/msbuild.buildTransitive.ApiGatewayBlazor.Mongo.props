@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ApiGatewayBlazor.Mongo.props" />
+</Project>

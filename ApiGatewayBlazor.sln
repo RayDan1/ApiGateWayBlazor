@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGatewayBlazor.Mongo", "ApiGatewayBlazor.Mongo\ApiGatewayBlazor.Mongo.csproj", "{4268E43B-2820-42CE-8D0E-F30190138E4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGatewayBlazor.SqlServer", "ApiGatewayBlazor.SqlServer\ApiGatewayBlazor.SqlServer.csproj", "{B6D5E37F-633E-42F4-8A91-7F29149FE1F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGatewayBlazor.Server", "ApiGatewayBlazor\Server\ApiGatewayBlazor.Server.csproj", "{735E94FF-5C78-403B-840A-B8D66A56640C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGatewayBlazor.Client", "ApiGatewayBlazor\Client\ApiGatewayBlazor.Client.csproj", "{4A03C163-7F93-4592-A61B-FD22C2916414}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGatewayBlazor.Shared", "ApiGatewayBlazor\Shared\ApiGatewayBlazor.Shared.csproj", "{CAE22792-2C4E-4009-93A8-0817FFAE93A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4268E43B-2820-42CE-8D0E-F30190138E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4268E43B-2820-42CE-8D0E-F30190138E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4268E43B-2820-42CE-8D0E-F30190138E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4268E43B-2820-42CE-8D0E-F30190138E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D5E37F-633E-42F4-8A91-7F29149FE1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D5E37F-633E-42F4-8A91-7F29149FE1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D5E37F-633E-42F4-8A91-7F29149FE1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D5E37F-633E-42F4-8A91-7F29149FE1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735E94FF-5C78-403B-840A-B8D66A56640C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735E94FF-5C78-403B-840A-B8D66A56640C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735E94FF-5C78-403B-840A-B8D66A56640C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735E94FF-5C78-403B-840A-B8D66A56640C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A03C163-7F93-4592-A61B-FD22C2916414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A03C163-7F93-4592-A61B-FD22C2916414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A03C163-7F93-4592-A61B-FD22C2916414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A03C163-7F93-4592-A61B-FD22C2916414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAE22792-2C4E-4009-93A8-0817FFAE93A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE22792-2C4E-4009-93A8-0817FFAE93A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE22792-2C4E-4009-93A8-0817FFAE93A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE22792-2C4E-4009-93A8-0817FFAE93A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66BAC86A-200B-4209-A2E0-1637C963B717}
+	EndGlobalSection
+EndGlobal
